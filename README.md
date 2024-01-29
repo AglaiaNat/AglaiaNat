@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AglaiaNat
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning js
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in cloud solutions
+- 🌱 I’m currently learning AWS
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...
 
 <!---
