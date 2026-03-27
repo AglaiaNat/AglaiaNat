@@ -12,7 +12,7 @@ I am cybersecurity enthusiast, presently working with backup software and email 
 My education started in Biology. Quality control, precision and documentation were important skills I learned while working in food chemistry and microbiology labs. I then started a job in IT support for backup software, where I learned about the importance of keeping our personal information safe.  I then got introduced to cybercrime and security through podcasts. When I found out that the work in cybersecurity entails constant learning and harnessing of skills, I decided to pursue it and have since found the profession fascinating, thus I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-
+<!--
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
@@ -21,7 +21,7 @@ My education started in Biology. Quality control, precision and documentation we
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
+-->
 ## Tools
 
 ### Network
@@ -71,5 +71,16 @@ My education started in Biology. Quality control, precision and documentation we
  --->
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+# 📈 TryHackMe Progress
+
+## Completed Courses 
+N/A
+<!---
+- Defensive Security Intro ✅
+- Intro to Networking ✅ -->
+
+## In Progress
+- Cyber Security 101 🔄
+
+## Skills Gained
+- N/A
