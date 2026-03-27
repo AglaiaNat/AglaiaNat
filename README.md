@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AglaiaNat
-- 👀 I’m interested in cloud solutions
-- 🌱 I’m currently learning AWS
+- 👀 I’m interested in cybersecurity solutions
+- 🌱 I’m currently learning cybersecurity engineering
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me ...
 
 <!---
 AglaiaNat/AglaiaNat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
